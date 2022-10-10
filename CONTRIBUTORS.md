@@ -118,13 +118,9 @@
 - Bio: Student | web Developer
 - GitHub: [Raj](https://github.com/gitrajmaurya)
 
-# Name: Atharva Mogade
-- Place: India
-- Bio: Frontend Web Devloper
-- Github: [atharvamogade](https://github.com/atharvamogade)
 
-# Name: Surarapu Vagdevi
+# Name: Aseem
 - Place: India
-- Bio: Student,Competitive Programmer
-- Github: [Vagdevi](https://github.com/Vagdevi007)
+- Bio: Student + Exploring + learning --> **Frontend dev** & **DSA** as of now.
+- Github: [Aseem](https://github.com/AseemsGit)
 
